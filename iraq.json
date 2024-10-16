@@ -11,7 +11,7 @@
     "tarix":"2024/09/20",
     "t1":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/wenee%2FIMG_8241.PNG?alt=media&token=711c5dac-0f3a-42ff-bb92-991103845698",
     "nt1":" دهۆک",
-    "wext":"0-1",
+    "wext":"0 - 1",
     "nt2":"زەوڕا",
      "t2":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/wenee%2Fduhok%2Fzawra-removebg-preview.png?alt=media&token=9d3192dd-3a32-4b43-9a72-630a0a8265f7",
       "dum":"دوماهیک"
